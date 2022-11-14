@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661519922 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\01-jogodaveia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
