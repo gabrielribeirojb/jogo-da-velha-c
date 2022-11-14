@@ -67,8 +67,7 @@ void playerMove(){
 
 char printWinner(char winner){
     if(winner == PLAYER){
-        printf("YOU W1
-               11ON");
+        printf("YOU WON");
     }
     else if(winner == COMPUTER){
         printf("YOU LOSED");
